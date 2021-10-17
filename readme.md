@@ -23,7 +23,7 @@ The header file will provide all kind of function possible in linked list.
 
 10. **void del_last()** :- **this function will delete the last node.**
 
-11. **void reverse()** :- **this function will reverse a linked list.**
+
 
 ## Usage
 ```bash
